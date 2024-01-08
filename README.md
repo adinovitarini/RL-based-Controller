@@ -2,7 +2,7 @@
 This repo is part of the Dissertation 
 ### Citation
 If you find the data or model useful, please cite this repo as follows.
-
+'''
 @misc{xu2023expertprompting,
       title={Optimal Control System based on Reinforcement Learning Method}, 
       author={Adi Novitarini Putri},
@@ -11,3 +11,4 @@ If you find the data or model useful, please cite this repo as follows.
       archivePrefix={arXiv},
       primaryClass={cs.CL}
 }
+'''
