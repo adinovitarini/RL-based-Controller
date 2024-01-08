@@ -1,16 +1,18 @@
 # RL-based-Controller
 This repo is part of the Dissertation 
 ### How to use this repo 
-<ol>
+<p><ol>
   <li>Download the zip files and extract it into a directory</li>
   <li>Open your MATLAB applications</li>
   
-</ol>
+</ol></p>
+
 ### The packages 
-<ul>
+<p><ul>
   <li>Deep Learning Toolbox</li>
   <li>MATLAB R2023a</li>
-</ul>
+</ul></p>
+
 ### Citation
 If you find the data or model useful, please cite this repo as follows.
 ```
