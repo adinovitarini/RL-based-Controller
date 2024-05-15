@@ -13,6 +13,14 @@ This repo is part of the Dissertation
   <li>MATLAB R2023a</li>
 </ul></p>
 
+### The Methods 
+<p>
+  <em>First Method</em>
+  <a href="https://ieeexplore.ieee.org/document/10064282">[Paper]</a>
+  <em>Second Method</em>
+  <a href="https://ieeexplore.ieee.org/document/10356050">[Paper]</a>
+</p>
+
 ### Citation
 If you find the data or model useful, please cite this repo as follows.
 ```
